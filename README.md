@@ -9,3 +9,4 @@ Deuxième test du git merge et git fetch depuis local
 
 Modification de pusi le serveur distant !
 ##############################################
+C'est formidable
