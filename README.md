@@ -8,4 +8,3 @@ Ceci est un test du fonctionnement de git push
 Deuxième test du git merge et git fetch depuis local
 
 Modification de pusi le serveur distant !
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
